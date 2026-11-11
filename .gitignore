@@ -1,0 +1,37 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+nul/
+
+# Editor
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Output / generated
+output/
+pipeline-output/
+.worktrees/
+.superpowers/
+docs/superpowers/
+aihot-frontend/dist/
+aihot-frontend/test-results/
+aihot-frontend/data/
+aihot-frontend/dev-server*.log
+aihot-frontend/tsconfig.tsbuildinfo
+*.tmp
+
+# Local notes and content artifacts
+/Course.md
+/test.md
+/45F2EF1FEE44E44FEBBFFB898763DE14.png
+/image2editable_article.md
+/image2editable_images/

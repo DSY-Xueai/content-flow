@@ -1,0 +1,9 @@
+default_type: conceptual
+default_palette: elegant
+default_rendering: flat-vector
+default_text: title-only
+default_mood: balanced
+default_font: clean
+default_aspect: 3:4
+default_output_dir: imgs-subdir
+quick_mode: false
